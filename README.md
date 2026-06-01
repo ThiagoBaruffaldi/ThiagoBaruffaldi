@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/ae21b147-38ce-4062-a4df-67e87470a708" />
 
 <!--
 **ThiagoBaruffaldi/ThiagoBaruffaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
