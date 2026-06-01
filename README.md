@@ -1,4 +1,6 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/ae21b147-38ce-4062-a4df-67e87470a708" />
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/ae21b147-38ce-4062-a4df-67e87470a708" />          
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoBaruffaldi)](https://github.com/anuraghazra/github-readme-stats)
 
