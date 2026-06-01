@@ -12,9 +12,14 @@
 </div>
 <br>
 
+# 👋 Olá!
+Sou um amante de tecnologia com vontade de aprender coisas novas e entrar em contato com novas pessoas!
+
+**Atualmente, estou procurando por novas oportunidades.**
+<br>
 <div align="left">
 
-### Tecnologias em aprendizado
+# ⚡Tech Stack
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
@@ -41,6 +46,11 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </div>
+</div>
+</div>
+<br>
 
-</div>
-</div>
+ # 📫 Contato
+
+  * LinkedIn - Thiago Baruffaldi
+  * Email - thiagobaruffaldi42@gmail.com
