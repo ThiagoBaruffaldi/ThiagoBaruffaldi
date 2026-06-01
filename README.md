@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="left">
 
 ### Tecnologias em aprendizado
 
