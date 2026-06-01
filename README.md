@@ -13,7 +13,7 @@
 <br>
 
 # 👋 Olá!
-Sou um amante de tecnologia com vontade de aprender coisas novas e entrar em contato com novas pessoas!
+Estudante de Ciência da Computação na PUC Minas, 3º Período. Sou um amante de tecnologia com vontade de aprender coisas novas e entrar em contato com novas pessoas!
 
 **Atualmente, estou procurando por novas oportunidades.**
 <br>
